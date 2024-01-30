@@ -4,7 +4,7 @@
 This repository contains the documentation for a hospitality domain PowerBI dashboard. The dashboard provides insights into various metrics related to hotel bookings, revenue, and occupancy. The project includes the use of DAX formulas to create custom measures and leverages different visualizations to present the data effectively.
 
 ### Dashboard Components
-#### Tables
+### Tables
 dim_date: Dimension table containing date-related information.
 dim_hotels: Dimension table with details about different hotels.
 dim_rooms: Dimension table containing information about various rooms.
